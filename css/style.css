@@ -167,10 +167,13 @@ a.source:visited {
 h1 {
   margin: 0;
   font-size: 1.5em;
+  color: red;
+ 
 }
 
 h2 {
   margin: 0;
   font-size: 1.1em;
   font-weight: normal;
+  color: green; 
 }
