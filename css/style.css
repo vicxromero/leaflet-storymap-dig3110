@@ -47,13 +47,14 @@ body {
   position: absolute;
   left: 0;
   top: 203px;
-  background-color: red;
+  background-color: white;
   width: 100vw;
   z-index: 100;
   margin: 0;
   padding: 0px;
   visibility: hidden;
   font-weight: bold;
+  font-family: "Lucida Console", Courier, monospace; 
   text-align: center;
   color: #FF0000;
 }
