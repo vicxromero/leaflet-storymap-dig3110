@@ -173,6 +173,7 @@ h1 {
   font-size: 1.5em;
   color: #FF0000;
   font-family: "Lucida Console", monospace; 
+  padding: 10px;
 }
 
 h2 {
