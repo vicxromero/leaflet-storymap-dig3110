@@ -166,7 +166,9 @@ a.source:visited {
 /* Storymap title & subtitle */
 h1 {
   margin: 0;
+  font-family: "Cabin Sketch", cursive;
   font-size: 1.5em;
+  color: red;
  
 }
 
