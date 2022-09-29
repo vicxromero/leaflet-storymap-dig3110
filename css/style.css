@@ -54,7 +54,7 @@ body {
   padding: 0px;
   visibility: hidden;
   font-weight: bold;
-  font-family: "Lucida Console", Courier, monospace; 
+  font-family: "Lucida Console", monospace; 
   text-align: center;
   color: #FF0000;
 }
@@ -171,7 +171,8 @@ a.source:visited {
 h1 {
   margin: 0;
   font-size: 1.5em;
-  color: #FF0000; 
+  color: #FF0000;
+  font-family: "Lucida Console", monospace; 
 }
 
 h2 {
