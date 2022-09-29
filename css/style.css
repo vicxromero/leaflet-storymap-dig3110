@@ -164,6 +164,7 @@ a.source:visited {
   padding: 5px;
   text-align: center;
   color: #FF0000;
+  font-family: "Lucida Console", monospace;
 }
 
 /* Storymap title & subtitle */
