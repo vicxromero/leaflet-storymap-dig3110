@@ -55,7 +55,7 @@ body {
   visibility: hidden;
   font-weight: bold;
   text-align: center;
-  color: red;
+  color: #FF0000;
 }
 
 .chapter-container {
@@ -100,7 +100,8 @@ body {
   display: block;
   text-align: center;
   font-size: 1.2em;
-  padding: 0 5px;
+  font-style: bold;
+  padding: 5px;
 }
 
 .source {
@@ -161,14 +162,14 @@ a.source:visited {
 #header {
   padding: 5px;
   text-align: center;
-  color: red;
+  color: #FF0000;
 }
 
 /* Storymap title & subtitle */
 h1 {
   margin: 0;
   font-size: 1.5em;
-  color: red; 
+  color: #FF0000; 
 }
 
 h2 {
