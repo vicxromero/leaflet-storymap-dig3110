@@ -54,7 +54,6 @@ body {
   padding: 0;
   visibility: hidden;
   font-weight: bold;
-  font-family: 'Cabin Sketch', cursive;
   text-align: center;
 }
 
@@ -100,7 +99,6 @@ body {
   display: block;
   text-align: center;
   font-size: 1.2em;
-  font-family: 'Cabin Sketch', cursive;
   padding: 0 5px;
 }
 
@@ -169,7 +167,6 @@ a.source:visited {
 h1 {
   margin: 0;
   font-size: 1.5em;
-  color: red;
  
 }
 
