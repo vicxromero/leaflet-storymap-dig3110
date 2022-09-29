@@ -51,7 +51,7 @@ body {
   width: 100vw;
   z-index: 100;
   margin: 0;
-  padding: 5px;
+  padding: 0px;
   visibility: hidden;
   font-weight: bold;
   text-align: center;
